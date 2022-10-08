@@ -1,7 +1,7 @@
+import "@styles/global.scss";
+
 const App = () => {
-  return (
-    <div>React Template</div>
-  )
-}
+  return <>React Template File</>;
+};
 
 export default App;
